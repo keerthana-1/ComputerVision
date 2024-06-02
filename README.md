@@ -1,6 +1,6 @@
 # Computer Vision
 
-Examples describing how to apply various computer vision techniques on images.
+Examples showing how to apply various computer vision techniques on images.
 - Reding and writing images, videos
 - event bindings with opencv
 - Image blending
